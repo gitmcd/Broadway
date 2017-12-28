@@ -35,11 +35,14 @@ header {
 
 .alternative {
   background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
+  color: white;
 }
 
 footer {
   text-align: left;
   background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
 }
 
 footer p {
